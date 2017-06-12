@@ -1,0 +1,13 @@
+﻿[
+  {
+    "Id": "448450b0-e1ea-40f6-8851-5f714bf747ce",
+    "Name": "Product 1",
+    "ProductType": 0,
+
+  },
+  {
+    "Id": "b1ff9454-7c22-4356-942f-689938b2fc39",
+    "Name": "Product 2",
+    "ProductType": 1
+  }
+]
